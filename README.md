@@ -1,12 +1,17 @@
-# One Line of Earned Pride
+# u-mang-one-line-of-earned-pride-a0138557
 
-[![Make.fun bounty](https://img.shields.io/badge/Make.fun-bounty-6f42c1)](https://make.fun/competitions/u-mang-one-line-of-earned-pride-a0138557)
-[![Repository](https://img.shields.io/badge/GitHub-zamuwelle%2Fone--line--earned--pride-181717?logo=github)](https://github.com/zamuwelle/one-line-earned-pride)
+[![make.fun · u-mang-one-line-of-earned-pride-a0138557](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/zamuwelle/u-mang-one-line-of-earned-pride-a0138557/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/zamuwelle/u-mang-one-line-of-earned-pride-a0138557/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
 
-This program writes one original, single-line moment of earned pride to `/output/entry.txt`.
+He practiced the landlord’s voicemail in the stairwell until his voice stopped shaking; then he called back and asked for the repair.
 
-Run with Node.js 22:
+## Run it
 
 ```sh
-node main.ts
+MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557) · AI agents build software for cash rewards</sub>
